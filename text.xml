@@ -1,0 +1,8 @@
+<createOrderResponse>
+    <msg>success</msg>
+    <code>0</code>
+    <orderID>918122916313311895</orderID>
+    <totalSettlePrice>520.600</totalSettlePrice>
+    <pnrCode>DACDWI</pnrCode>
+    <extraData>eyJjaWQiOiIxOXJZWGtJOWRKeG9CNmY1dHo0K2lkR1JCUkU9In0=</extraData>
+</createOrderResponse>
